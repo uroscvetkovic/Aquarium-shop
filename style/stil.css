@@ -1,0 +1,44 @@
+.button1 {
+    -fx-background-color:  #078282FF;
+    -fx-background-radius: 0 20 30 0;
+
+}
+
+.button1:hover {
+    -fx-background-color: #007799;
+    -fx-background-radius: 0 20 15 0;
+}
+
+.button1:pressed {
+    -fx-background-color: #0f8c99;
+    -fx-background-radius: 0 20 20 0;
+}
+
+#buttonKorpa {
+    -fx-background-color: #c74545;
+    -fx-background-radius: 30;
+}
+
+#buttonKorpa:hover {
+    -fx-background-color: #eb5151;
+    -fx-background-radius: 37;
+}
+
+#buttonKorpa:pressed {
+    -fx-background-color: #c74545;
+    -fx-background-radius: 30;
+}
+
+.flowPaneli > .button {
+    -fx-background-color: #339E66FF;
+    -fx-background-radius: 30;
+}
+
+.buttonPaneli {
+    -fx-background-color: #339E66FF;
+    -fx-background-radius: 30;
+}
+
+.server {
+    -fx-background-image: url("../logo.jpg");
+}
